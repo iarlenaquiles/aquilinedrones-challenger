@@ -14,3 +14,7 @@
 - git clone
 - yarn
 - yarn dev
+
+## Acessar a documentação no Swagger
+
+`/api-docs`
